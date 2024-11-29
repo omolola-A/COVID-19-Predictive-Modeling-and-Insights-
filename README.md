@@ -57,12 +57,16 @@ From March to July, confirmed cases rose steadily, accompanied by increasing rec
 Recovery rates overtook death rates in July.
 
 ![](https://github.com/omolola-A/COVID-19-Predictive-Modeling-and-Insights-/blob/main/Monthly%20Trends.png)
+
 Figure 1: Global COVID-19 Case Trends
 
 ### Country-Level Analysis:
 The US had the highest confirmed cases, with more deaths than recoveries.
 Brazil showed a high recovery rate, while the UK reported no recoveries.
 Europe and Asia dominated the case count, while Australia and Africa recorded fewer cases.
+
+![](https://github.com/omolola-A/COVID-19-Predictive-Modeling-and-Insights-/blob/main/Top%2010%20Countries%20with%20cases%20of%20COVID-19.png)
+
 Figure 2: Top 10 Countries by COVID-19 Cases
 
 ### Monthly Analysis:
