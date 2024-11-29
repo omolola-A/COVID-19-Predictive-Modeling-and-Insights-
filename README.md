@@ -78,10 +78,14 @@ Europe had the highest number of confirmed cases, followed by Asia and South Ame
 Australia and Africa recorded the lowest confirmed cases.
 Deaths per population and recovery-to-death ratios provided actionable benchmarks for public health strategies.
 
+![](https://github.com/omolola-A/COVID-19-Predictive-Modeling-and-Insights-/blob/main/PowerBi%20Dashbord(COVID-19).png)
+
 Figure 3: Dashboard Summary
 
 ## Forecasting Model:
 The ARIMA model was built and evaluated using Python. The model parameters (p, d, q) were optimized using the auto_arima function, ensuring the best fit for the dataset.
+
+![](https://github.com/omolola-A/COVID-19-Predictive-Modeling-and-Insights-/blob/main/Forecast.png)
 Figure 4: ARIMA Forecast Results
 
 
