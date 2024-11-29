@@ -1,5 +1,7 @@
 # Introduction
 
+![](https://github.com/omolola-A/COVID-19-Predictive-Modeling-and-Insights-/blob/main/Microbes-2-800x450.png)
+
 ## Background
 The SARS-CoV-2 virus that triggered the COVID-19 pandemic has caused major disruptions to people's lives worldwide, posing problems for social structures, the economy, and public health. Data analysis and forecasting models are essential to comprehend pandemic trends and inform policy decisions. To predict future instances, this paper uses forecasting techniques, emphasizing the ARIMA model, to analyze trends in COVID-19 data and provide important insights.
 Problem Statement
