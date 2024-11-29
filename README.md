@@ -56,6 +56,7 @@ Recovery to Death Ratio: 8.95
 From March to July, confirmed cases rose steadily, accompanied by increasing recoveries.
 Recovery rates overtook death rates in July.
 
+![](https://github.com/omolola-A/COVID-19-Predictive-Modeling-and-Insights-/blob/main/Monthly%20Trends.png)
 Figure 1: Global COVID-19 Case Trends
 
 ### Country-Level Analysis:
