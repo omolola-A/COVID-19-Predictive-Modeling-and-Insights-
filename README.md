@@ -99,4 +99,6 @@ Resource allocation strategies must prioritize regions with high death rates rel
 Future pandemic preparedness should include predictive systems leveraging integrated datasets for real-time insights.
 Expand data collection to include vaccine distribution and efficacy metrics for enhanced modeling.
 
-## To access this report in pdf format, which includes Literature Review: Go to [COVID-19 Predictive Modeling and Insights for Public Health]([https://agrointelapp-42b9wmhrekiuzmnzadkzor.streamlit.app/).](https://drive.google.com/file/d/1K9r4wHWgmIQR5rfq5ohBUAuyyNbJZS8d/view?usp=drive_link)
+## To access this report in pdf format, which includes a Literature Review: Go to [COVID-19 Predictive Modeling and Insights for Public Health](https://drive.google.com/file/d/1K9r4wHWgmIQR5rfq5ohBUAuyyNbJZS8d/view?usp=drive_link)
+
+## To also access this report in presentation format: Go to [Presentation Slides](https://drive.google.com/file/d/1uYPC9v1-OiYgJKQwWyJlSFDcUKvHZkpN/view?usp=sharing)
