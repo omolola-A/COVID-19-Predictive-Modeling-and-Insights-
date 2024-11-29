@@ -103,4 +103,4 @@ Expand data collection to include vaccine distribution and efficacy metrics for 
 
 ## To access this report in pdf format, which includes a Literature Review: Go to [COVID-19 Predictive Modeling and Insights for Public Health](https://drive.google.com/file/d/1K9r4wHWgmIQR5rfq5ohBUAuyyNbJZS8d/view?usp=drive_link)
 
-## To also access this report in presentation format: Go to [Presentation Slides](https://drive.google.com/file/d/1uYPC9v1-OiYgJKQwWyJlSFDcUKvHZkpN/view?usp=sharing)
+## To also access this report in presentation format: Go to [Presentation Slides](https://drive.google.com/file/d/1Kc037PhGM8OFJm2Q0l_q5d7YiV3RhvWk/view?usp=sharing)
