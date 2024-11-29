@@ -77,8 +77,7 @@ June recorded fewer cases but a slightly higher deaths-to-recovery ratio.
 Europe had the highest number of confirmed cases, followed by Asia and South America.
 Australia and Africa recorded the lowest confirmed cases.
 Deaths per population and recovery-to-death ratios provided actionable benchmarks for public health strategies.
-
-![](https://github.com/omolola-A/COVID-19-Predictive-Modeling-and-Insights-/blob/main/PowerBi%20Dashbord(COVID-19).png)
+![](https://github.com/omolola-A/COVID-19-Predictive-Modeling-and-Insights-/blob/main/Dashboard.png)
 
 Figure 3: Dashboard Summary
 
@@ -100,3 +99,4 @@ Resource allocation strategies must prioritize regions with high death rates rel
 Future pandemic preparedness should include predictive systems leveraging integrated datasets for real-time insights.
 Expand data collection to include vaccine distribution and efficacy metrics for enhanced modeling.
 
+## To access this report in pdf format, which includes Literature Review: Go to [COVID-19 Predictive Modeling and Insights for Public Health]([https://agrointelapp-42b9wmhrekiuzmnzadkzor.streamlit.app/).](https://drive.google.com/file/d/1K9r4wHWgmIQR5rfq5ohBUAuyyNbJZS8d/view?usp=drive_link)
